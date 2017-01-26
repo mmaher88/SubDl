@@ -69,5 +69,15 @@ namespace SubDlCxtMenu.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SubDlIconTiny {
+            get {
+                object obj = ResourceManager.GetObject("SubDlIconTiny", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

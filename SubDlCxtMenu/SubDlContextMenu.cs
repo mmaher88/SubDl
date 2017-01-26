@@ -28,7 +28,7 @@ namespace SubDlCxtMenu
             var getSubMenuItem = new ToolStripMenuItem
             {
                 Text = "Get Subtitles",
-                Image = Properties.Resources.SubDlIconSmall
+                Image = Properties.Resources.SubDlIconTiny
             };
 
             //  When we click, we'll count the lines.
